@@ -383,9 +383,7 @@ a {
 
 html,
 body {
-  min-height: 100%;
-  width: 800px;
-}
+  min-height: 100%; }
 
 .italic {
   font-style: italic; }
@@ -1466,7 +1464,7 @@ nav {
   .project-cover:hover .cover-rollover {
     display: none; }
   .project-cover {
-    width: 50%; }
+    width: 33.33333%; }
     .project-cover:nth-child(2n) {
       margin-right: 0 !important; }
     .project-cover:nth-child(3n) {
@@ -1477,7 +1475,7 @@ nav {
 @media (max-width: 540px) {
   .project-cover {
     margin-right: 0 !important;
-    width: 100%; }
+    width: 33.33333%; }
     .project-cover .title {
       font-size: 19px;
       line-height: 22px;
